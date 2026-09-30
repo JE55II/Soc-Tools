@@ -6,12 +6,12 @@ tags:
 ---
 <!-- Table of Contents arrowType: Index | title: Index  | codeBlocks: y -->
 # Index
-1. [Web analysis:](Web analysis:)
-2. [UserID tools:](UserID tools:)
-3. [SandBox:](SandBox:) (real time analysis helps more than passive recon)
-4. [Intelligence:](Intelligence:)
-5. [General Knowledge:](General Knowledge:)
-6. [General Management:](General Management:)
+1. [Web analysis:](# Web analysis:)
+2. [UserID tools:](# UserID tools:)
+3. [SandBox:](# SandBox:) (real time analysis helps more than passive recon)
+4. [Intelligence:](# Intelligence:)
+5. [General Knowledge:](# General Knowledge:)
+6. [General Management:](# General Management:)
 
 <!-- End of TOC -->
 
@@ -27,11 +27,9 @@ tags:
 - https://maltiverse.com/
 - https://urlquery.net/
 
-<
 # UserID tools: 
 - https://haveibeenpwned.com/
 - https://intelx.io/
-
 
 # SandBox: (real time analysis helps more than passive recon)
 - FalconUS
@@ -51,7 +49,6 @@ tags:
 - https://search.criminalip.io/
 - https://www.exploit-db.com/
 - https://hijacklibs.net/#
-
 
 # General Knowledge: 
 - [NIST NVD](https://nvd.nist.gov/)
