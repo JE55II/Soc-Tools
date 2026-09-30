@@ -6,12 +6,12 @@ tags:
 ---
 <!-- Table of Contents arrowType: Index | title: Index  | codeBlocks: y -->
 # Index
-1. [[Soc Tools#Web analysis:|Web analysis:]]
-2. [[Soc Tools#UserID tools:|UserID tools:]]
-3. [[Soc Tools#SandBox: (real time analysis helps more than passive recon)|SandBox: (real time analysis helps more than passive recon)]]
-4. [[Soc Tools#Intelligence:|Intelligence:]]
-5. [[Soc Tools#General Knowledge:|General Knowledge:]]
-6. [[Soc Tools#General Management:|General Management:]]
+1. [Web analysis:](Web analysis:)
+2. [UserID tools:](UserID tools:)
+3. [SandBox:](SandBox:) (real time analysis helps more than passive recon)
+4. [Intelligence:](Intelligence:)
+5. [General Knowledge:](General Knowledge:)
+6. [General Management:](General Management:)
 
 <!-- End of TOC -->
 
